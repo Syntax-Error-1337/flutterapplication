@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "643443137166",
+    "firebase_url": "https://elite-df98e.firebaseio.com",
+    "project_id": "elite-df98e",
+    "storage_bucket": "elite-df98e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643443137166:android:40d8cb8323fee0bf61c7df",
+        "android_client_info": {
+          "package_name": "com.codeine.elite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643443137166-f3kr811dvu3ks5ettqg79nih9g82lkva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVrNvkaKutzmkO6awKK7YIX4vaIWKexYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643443137166-f3kr811dvu3ks5ettqg79nih9g82lkva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
